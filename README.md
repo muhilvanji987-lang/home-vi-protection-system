@@ -5,7 +5,7 @@ Final Year Project · B.E. Electronics & Communication Engineering
 An Arduino-based safety device that continuously watches household mains voltage and appliance current, cuts power automatically before a fault becomes a short circuit, and alerts the homeowner's phone by SMS — all without manual intervention.
 
 **Author:** Vanjimuthu, B.E. ECE
-**Project support:** Sankar
+**Project support:** Sankar and D.Sathiyan.
 
 ## What it does
 
